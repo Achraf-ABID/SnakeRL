@@ -191,12 +191,6 @@ snake-ai/
 │
 ├── SnakeRL.py              # Script principal
 ├── models/                 # Dossier des modèles sauvegardés
-│   └── snake_ai_YYYYMMDD_HHMMSS/
-│       ├── model_record_XX.pth
-│       ├── model_checkpoint_XXX.pth
-│       ├── model_final.pth
-│       └── training_plot.png
-│
 ├── Image/                  # Captures d'écran et graphiques
 └── README.md               # Ce fichier
 ```
