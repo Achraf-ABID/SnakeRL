@@ -1,8 +1,3 @@
-Voici le contenu de votre fichier `README.md` formaté proprement en Markdown. J'ai intégré les images que vous avez fournies aux bons endroits en me basant sur la structure de votre dossier `Image/`.
-
-Vous pouvez copier le code ci-dessous et le coller dans votre fichier `README.md`.
-
-```markdown
 # Snake AI with Deep Reinforcement Learning 🐍🤖
 
 Un projet d'Intelligence Artificielle qui apprend à jouer au jeu Snake en utilisant le Deep Q-Learning (DQN) avec PyTorch.
